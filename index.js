@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["**OUVINDO** Racionais 🎧","**JOGANDO ROBLOX** Santa City 🏖️"];
+const statusMessages = ["OUVINDO Racionais 🎧","JOGANDO Santa City 🏖️"];
 
 
 let currentIndex = 0;
